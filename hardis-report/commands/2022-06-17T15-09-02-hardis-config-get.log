@@ -1,0 +1,11 @@
+D:\NodeJS\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\sfdx-cli\bin\run hardis:config:get --level user --jsonD:\NodeJS\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\sfdx-cli\bin\run hardis:config:get --level project --json[sfdx-hardis][command] git config --local merge.tool vscode
+[sfdx-hardis] error: could not lock config file .git/config: File exists
+
+[sfdx-hardis] {}
+[sfdx-hardis] Updated config file g:\Mes_TPs\TP_JAVASCRIPT\Nodejs\node-easy-notes-app\config\user\.sfdx-hardis.admin.yml with values: 
+{
+  "installedApps": [
+    "git"
+  ]
+}
+[sfdx-hardis] {"installedApps":["git"]}
